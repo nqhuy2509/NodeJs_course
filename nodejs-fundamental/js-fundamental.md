@@ -1034,4 +1034,4 @@ Output: 5(2 + 3)
 
 -   Làm bài tập vào file `js-fundamental.js` và đặt trong thư mục `nodejs-fundamental`.
 
--   Tạo branch `practice` trên github và push code lên branch đó. (Không push code lên branch `master`, xem trong phần [Git Fundamental](#git-fundamental))
+-   Tạo branch `practice` trên github và push code lên branch đó. (Không push code lên branch `master`, xem trong phần [Git Fundamental](../git-fundamental.md))
